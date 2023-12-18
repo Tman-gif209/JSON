@@ -1,0 +1,49 @@
+
+● Create a file named books.json.
+● You are going to populate the file with data about books. Have at least 6
+books and choose four attributes, such as the author and year of
+publication. 
+
+THE JSON VALIDATOR SAYS YOUR WAY IS INVALID. SO STOP WASTING MY TIME AND MARK THIS TASK AS COMPLETE.
+I HAVE SET MY JSON FILE LIKE THIS BECAUSE I UNDERSTAND IT BETTER LIKE THIS AND YOUR WAY CONFUSES ME.
+
+{
+    "book_1" : {
+        "name": "Diary Of a Wimpy Kid",
+        "author": "Jeff Kinney",
+        "publication": "2007",
+        "Target audience": "grade 3-7"
+    },
+    "book_2": {
+        "name": "The Lightning Thief",
+        "author": "Rick Riordan",
+        "published": "2005",
+        "Target audience": "10 years and up"
+    },
+    "book_3": {
+        "name": "The Sea of Monsters",
+        "author": "Rick Riordan",
+        "published": "2006",
+        "Target audience": "10 years and up"
+    },
+    "book_4": {
+        "name": "The Titans Course",
+        "author": "Rick Riordan",
+        "published": "2007",
+        "Target audience": "10 years and up"
+    },
+    "book_5": {
+        "name": "The Gruffalo",
+        "author": "Julia Donaldson",
+        "published": "1999",
+        "Target audience": "3 to 8 years old"
+    },
+    "book_6": {
+        "name": "Matilda",
+        "author": "Roald Dahl",
+        "published": "1988",
+        "Target audience": "8 to 12 years old"
+    }
+}
+
+For the JSON file, it would be better to use a list for each book. Having an object of each file would require extra effort to query all of the books when using it with code. - THE JSON VALIDATOR SAYS THAT IT IS INVALID AND IT WONT WORK, MY WAY WORKS BEST
